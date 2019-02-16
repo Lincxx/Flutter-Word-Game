@@ -1,6 +1,8 @@
-# word_game
+# Word Game
 
-A new Flutter project.
+This is a "mad lib" style game. Where the sentence is already created and the noun and adjective is randomly picked for a word list.
+
+The user then can pick which sentence they like best
 
 ## Getting Started
 
